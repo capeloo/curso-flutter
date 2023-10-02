@@ -1,0 +1,4 @@
+#Wed May 17 11:00:50 BRT 2023
+base.0=C\:\\Users\\caioc\\Downloads\\curso-flutter\\shop\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
